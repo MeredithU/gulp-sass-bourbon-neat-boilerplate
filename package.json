@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/MeredithU/gulp-sass-bourbon-neat-boilerplate/issues"
   },
-  "homepage": "https://github.com/MeredithU/gulp-sass-bourbon-neat-boilerplate#readme"
+  "homepage": "https://github.com/MeredithU/gulp-sass-bourbon-neat-boilerplate#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "browser-sync": "^2.11.1",
+    "gulp-sass": "^2.1.1",
+    "node-bourbon": "^4.2.3",
+    "node-neat": "^1.7.2"
+  }
 }
